@@ -1,0 +1,31 @@
+@media screen and (max-width: 900px) {
+  .header-row {
+    flex-direction: column;
+
+    margin-left: 15px;
+  }
+  .menu {
+    display: block;
+  }
+  .burger-menu {
+    position: relative;
+  }
+  .nav-list {
+    display: none;
+  }
+  .logo {
+    font-size: 20px;
+  }
+  .header-heading {
+    font-size: 20px;
+  }
+  .heading-1 {
+    font-size: 18px;
+  }
+  .nav-title {
+    font-size: 17px;
+  }
+  .text-2 {
+    font-size: 16px;
+  }
+}
